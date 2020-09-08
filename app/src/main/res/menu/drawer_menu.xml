@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--侧滑菜单-->
+    <item android:title="@string/app_name"/>
+    <group android:id="@+id/common">
+        <item
+            android:id="@+id/nav_menu_rank"
+            android:icon="@drawable/ic_add"
+            android:title="@string/setting"/>
+    </group>
+</menu>
