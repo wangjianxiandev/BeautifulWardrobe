@@ -2,8 +2,8 @@ package com.wjx.android.wanandroidmvvm.module.system.viewmodel
 
 import androidx.lifecycle.MutableLiveData
 import com.example.beautifulwardrobe.common.initiateRequest
-import com.example.beautifulwardrobe.module.listcommon.viewmodel.ListViewModel
-import com.example.beautifulwardrobe.module.system.repository.HomeRepository
+import com.example.beautifulwardrobe.module.common.viewmodel.ListViewModel
+import com.example.beautifulwardrobe.module.home.repository.HomeRepository
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.withContext
 

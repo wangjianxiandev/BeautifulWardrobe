@@ -3,7 +3,7 @@ package com.example.beautifulwardrobe.module.collection.repository
 import androidx.lifecycle.MutableLiveData
 import com.example.beautifulwardrobe.common.state.State
 import com.example.beautifulwardrobe.module.collection.model.CollectionData
-import com.example.beautifulwardrobe.module.listcommon.repository.ListRepository
+import com.example.beautifulwardrobe.module.common.repository.ListRepository
 
 /**
  * Created with Android Studio.

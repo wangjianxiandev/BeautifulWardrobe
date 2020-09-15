@@ -1,4 +1,4 @@
-package com.example.beautifulwardrobe.module.system.model
+package com.example.beautifulwardrobe.module.home.model
 
 /**
  * Created with Android Studio.

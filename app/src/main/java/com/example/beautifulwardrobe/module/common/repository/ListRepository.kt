@@ -1,11 +1,8 @@
-package com.example.beautifulwardrobe.module.listcommon.repository
+package com.example.beautifulwardrobe.module.common.repository
 
 import androidx.lifecycle.MutableLiveData
 import com.example.beautifulwardrobe.base.repository.ApiRepository
 import com.example.beautifulwardrobe.common.state.State
-import com.example.beautifulwardrobe.module.collection.model.CollectionData
-import kotlinx.coroutines.Dispatchers
-import kotlinx.coroutines.withContext
 
 open class ListRepository(val loadState: MutableLiveData<State>) : ApiRepository() {
 

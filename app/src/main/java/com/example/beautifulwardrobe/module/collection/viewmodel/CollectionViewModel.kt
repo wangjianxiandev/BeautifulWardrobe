@@ -4,7 +4,7 @@ import androidx.lifecycle.MutableLiveData
 import com.example.beautifulwardrobe.common.initiateRequest
 import com.example.beautifulwardrobe.module.collection.repository.CollectionRepository
 import com.example.beautifulwardrobe.module.collection.model.CollectionData
-import com.example.beautifulwardrobe.module.listcommon.viewmodel.ListViewModel
+import com.example.beautifulwardrobe.module.common.viewmodel.ListViewModel
 
 /**
  * Created with Android Studio.

@@ -14,7 +14,7 @@ import com.example.beautifulwardrobe.common.Constant
 import com.example.beautifulwardrobe.common.util.ColorUtil
 import com.example.beautifulwardrobe.module.collection.view.CollectionFragment
 import com.example.beautifulwardrobe.module.mine.MineFragment
-import com.example.beautifulwardrobe.module.system.view.HomeFragment
+import com.example.beautifulwardrobe.module.home.view.HomeFragment
 import kotlinx.android.synthetic.main.activity_main.*
 import kotlinx.android.synthetic.main.layout_toolbar.*
 

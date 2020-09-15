@@ -1,4 +1,4 @@
-package com.example.beautifulwardrobe.module.system.adapter
+package com.example.beautifulwardrobe.module.home.adapter
 
 import android.animation.AnimatorSet
 import android.animation.ObjectAnimator

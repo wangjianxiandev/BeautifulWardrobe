@@ -1,8 +1,8 @@
-package com.example.beautifulwardrobe.module.system.repository
+package com.example.beautifulwardrobe.module.home.repository
 
 import androidx.lifecycle.MutableLiveData
 import com.example.beautifulwardrobe.common.state.State
-import com.example.beautifulwardrobe.module.listcommon.repository.ListRepository
+import com.example.beautifulwardrobe.module.common.repository.ListRepository
 
 /**
  * Created with Android Studio.

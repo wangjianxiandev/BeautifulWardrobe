@@ -1,6 +1,5 @@
-package com.example.beautifulwardrobe.module.listcommon.adapter
+package com.example.beautifulwardrobe.module.common.adapter
 
-import android.graphics.drawable.Drawable
 import android.os.Build
 import com.chad.library.adapter.base.BaseQuickAdapter
 import com.chad.library.adapter.base.BaseViewHolder

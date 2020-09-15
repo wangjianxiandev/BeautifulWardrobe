@@ -6,9 +6,10 @@ import com.example.beautifulwardrobe.R
 import com.example.beautifulwardrobe.base.view.BaseLifeCycleFragment
 import com.example.beautifulwardrobe.common.SpeedLayoutManager
 import com.example.beautifulwardrobe.common.util.ColorUtil
+import com.example.beautifulwardrobe.module.chatroom.ChatActivity
 import com.example.beautifulwardrobe.module.collection.model.CollectionData
 import com.example.beautifulwardrobe.module.collection.viewmodel.CollectionViewModel
-import com.example.beautifulwardrobe.module.listcommon.adapter.ListAdapter
+import com.example.beautifulwardrobe.module.common.adapter.ListAdapter
 import kotlinx.android.synthetic.main.fragment_list.*
 
 /**
@@ -44,7 +45,7 @@ class CollectionFragment : BaseLifeCycleFragment<CollectionViewModel>(){
         mRvArticle?.adapter = mAdapter
 
         mAdapter.setOnItemClickListener { _, _, position ->
-
+            com.example.beautifulwardrobe.common.startActivity<ChatActivity>(requireActivity())
         }
         mAdapter.setOnItemChildClickListener { _, _, position ->
 

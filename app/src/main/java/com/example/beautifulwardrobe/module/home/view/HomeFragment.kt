@@ -1,4 +1,4 @@
-package com.example.beautifulwardrobe.module.system.view
+package com.example.beautifulwardrobe.module.home.view
 
 import android.graphics.Color
 import androidx.lifecycle.Observer
@@ -6,7 +6,7 @@ import androidx.recyclerview.widget.StaggeredGridLayoutManager
 import com.example.beautifulwardrobe.R
 import com.example.beautifulwardrobe.base.view.BaseLifeCycleFragment
 import com.example.beautifulwardrobe.common.util.ColorUtil
-import com.example.beautifulwardrobe.module.system.adapter.HomeAdapter
+import com.example.beautifulwardrobe.module.home.adapter.HomeAdapter
 import com.wjx.android.wanandroidmvvm.module.system.viewmodel.HomeViewModel
 import kotlinx.android.synthetic.main.fragment_list.*
 

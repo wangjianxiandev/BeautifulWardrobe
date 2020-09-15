@@ -17,6 +17,12 @@
         <item name="cornerSize">5dp</item>
     </style>
 
+    <style name="EditTextTheme" parent="AppTheme">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
 
 
     <style name="FullScreenBottomSheet" parent="Theme.MaterialComponents.Light.BottomSheetDialog">

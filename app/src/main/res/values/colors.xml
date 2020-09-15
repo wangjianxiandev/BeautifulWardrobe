@@ -11,12 +11,13 @@
     <color name="white">#FFFFFF</color>
     <color name="white_bg">#FFFFFF</color>
     <color name="black_bg">#000000</color>
+    <color name="chat_bg">#EBEBEB</color>
     <color name="colorGray">#333</color>
     <color name="colorGray666">#666</color>
     <color name="colorBlack333">#333</color>
     <color name="windowBackground">#80FFFFFF</color>
     <color name="background">#d8d8d8</color>
-    <color name="textTipColor">#a0a0a0</color>
+    <color name="textTipColor">#7B8085</color>
     <color name="primary">#2196F3</color>
     <color name="primary_dark">#1976D2</color>
     <color name="primary_light">#BBDEFB</color>
@@ -35,4 +36,6 @@
     <color name="me_item">#FFFFFF</color>
     <color name="text_color">#000000</color>
     <color name="dialog_divider">#80FFFFFF</color>
+    <color name="green">#45BF1A</color>
+    <color name="green_pressed">#3aa115</color>
 </resources>
